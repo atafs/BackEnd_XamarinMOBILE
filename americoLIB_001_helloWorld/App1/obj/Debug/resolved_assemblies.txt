@@ -1,0 +1,7 @@
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\assemblies\App1.dll
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\assemblies\Mono.Android.dll
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\assemblies\mscorlib.dll
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\assemblies\System.Core.dll
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\assemblies\System.dll
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\assemblies\System.Xml.dll
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\assemblies\System.Xml.Linq.dll

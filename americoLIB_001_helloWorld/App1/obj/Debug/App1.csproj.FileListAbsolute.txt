@@ -1,0 +1,26 @@
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.dll
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.pdb
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.App1.apk
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\bin\Debug\App1.App1-Signed.apk
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.dll
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\App1.pdb
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\android\bin\App1.App1.apk
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\res\layout\main.xml
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\res\values\strings.xml
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\res\drawable\icon.png
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\R.cs.flag
+c:\users\americo\documents\visual studio 2015\Projects\App1\App1\obj\Debug\uploadflags.txt
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\bin\Debug\App1.dll
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\bin\Debug\App1.pdb
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\bin\Debug\App1.App1.apk
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\bin\Debug\App1.App1-Signed.apk
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\App1.dll
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\App1.pdb
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\android\bin\App1.App1.apk
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\res\layout\main.xml
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\res\values\strings.xml
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\res\drawable\icon.png
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\R.cs.flag
+D:\clouds\Drive Ilimitado\BackEnd_XamarinMOBILE\americoLIB_001_helloWorld\App1\obj\Debug\uploadflags.txt
